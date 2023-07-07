@@ -1,0 +1,23 @@
+.product{
+    width: 1200px;
+    box-shadow: 0px 0px 10px black;
+    margin: 100px auto;
+    height: 400px;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.ProductContent{
+  background-color: black;
+  color: white;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.ProductData{
+   width: 70%;
+   overflow: scroll;
+   text-align: start;
+}

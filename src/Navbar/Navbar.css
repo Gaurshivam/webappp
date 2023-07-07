@@ -1,0 +1,27 @@
+.nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+.title{
+    width: 40%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu{
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
